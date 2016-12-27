@@ -14,3 +14,7 @@ Bulid: -
 2. Mode(s) : 
 3. Platform(s) : 
 4. Engine : 
+
+### Gameplays
+```yml
+```
