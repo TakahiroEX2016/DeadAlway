@@ -1,6 +1,7 @@
 
 
-[![Build Status](https://travis-ci.org/pages-themes/cayman.svg?branch=master)](https://travis-ci.org/pages-themes/cayman) [![Gem Version](https://rubygems.org/gems/hola.svg)](https://rubygems.org/gems/hola)
+[![Build Status](https://travis-ci.org/TakahiroEX2016/DeadAlway.svg?branch=master)](https://travis-ci.org/pages-themes/cayman) [![Gem Version](https://rubygems.org/gems/hola.svg)](https://rubygems.org/gems/hola)
+
 
 *Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
 
