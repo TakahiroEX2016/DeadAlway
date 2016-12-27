@@ -7,9 +7,9 @@ Bulid: -
 
 # DeadAlways 
 
-## Description
+###Description
 
-Genre(s) : 
-Mode(s) : 
-Platform(s) : 
-Engine : 
+1. Genre(s) : 
+2. Mode(s) : 
+3. Platform(s) : 
+4. Engine : 
