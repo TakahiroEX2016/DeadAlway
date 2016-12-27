@@ -1,11 +1,16 @@
 ```yml
-Status: [The title of your site]
-description: [A short description of your site's purpose]
+Status: Development has not started.
+Versions: -
+Latest developments: -
+Bulid: -
 ```
 
-## Usage
+## DeadAlways 
 
-To use the Cayman theme:
+Genre(s) :
+Mode(s) :
+Platform(s) :
+Engine :
 
 1. Add the following to your site's `_config.yml`:
 
