@@ -4,12 +4,13 @@ Versions: -
 Latest developments: -
 Bulid: -
 ```
-[Changelog](Changelog).
-[Procedures](Procedures).
+[Procedures](Procedures)
 
 ### Changelog
 ```yml
+
 ```
+[Changelog](changelog)
 
 ### Description
 
