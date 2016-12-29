@@ -4,6 +4,9 @@ Versions: -
 Latest developments: -
 Bulid: -
 ```
+[Changelog](Changelog).
+[Procedures](Procedures).
+
 ### Changelog
 ```yml
 ```
@@ -14,8 +17,6 @@ Bulid: -
 2. Mode(s) : 
 3. Platform(s) : 
 4. Engine : 
-
-[Link to another page](another-page).
 
 ### Gameplays
 ```yml
