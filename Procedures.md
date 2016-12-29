@@ -1,1 +1,5 @@
-
+ - Inventory System
+ - Weapon & Melee System
+ - Graphics
+    - 24hr Format
+    - 
